@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "webpack-cli": "^4.8.0"
+  },
+  "scripts": {
+    "build": "npx tailwindcss -o public/css/tailwind.css",
+    "compile": "webpack --config webpack.config.js",
+    "watch": "npx tailwindcss -o public/css/tailwind.css --watch"
+  },
+  "dependencies": {
+    "lightgallery": "^2.1.8",
+    "webpack": "^5.50.0"
+  }
+}
