@@ -11,7 +11,9 @@
     "watch": "npx tailwindcss -o public/css/tailwind.css --watch"
   },
   "dependencies": {
+    "i18next": "^21.5.3",
     "lightgallery": "^2.1.8",
+    "loc-i18next": "^0.1.4",
     "webpack": "^5.50.0"
   }
 }

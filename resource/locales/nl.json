@@ -1,0 +1,31 @@
+{
+  "title": "De setup van",
+  "description": "Mijn naam is Jasper Stolwijk, ik ben een web developer en een gamer. Ik speel veel verschillende games, van Horror tot Overwatch en van Warzone tot Back 4 Blood.",
+  "buttons": {
+    "button1": "Bekijk de Media",
+    "button2": "Meer informatie"
+  },
+  "information": {
+    "title": "Informatie",
+    "description": "Ik heb deze computer al 5 á 6 jaar en in deze tijd heb ik hem vaak aangepast. Net voor het videokaarten tekort heb ik nog een aantal upgrades kunnen uitvoeren waar ik gelukkig niet de hoofdprijs voor hoefde te betalen."
+  },
+  "sections": {
+    "section1": { 
+      "title": "Gaming Computer",
+      "description": "Als ik werk, maak ik gebruik van mijn Macbook Pro 16'. Voor het aansluiten van de laptop op de rest van mijn setup gebruik ik de volgende accessoires:"
+    },
+    "section2": { 
+      "title": "Peripherals",
+      "description": "Naast de laptop en de computer heb ik ook het volgende in huis:"
+    },
+    "section3": { 
+      "title": "Peripherals",
+      "description": "Naast de laptop en de computer heb ik ook het volgende in huis:",
+      "desk": "Bureau: Custom, blad is 200 cm x 100 cm en het is een verstelbare bureau"
+    }
+  },
+  "media": {
+    "title": "Foto's",
+    "description": "Alle foto's van mijn setup van alle hoeken."
+  }
+}

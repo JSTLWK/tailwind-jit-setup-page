@@ -4,6 +4,9 @@ import lightGallery from 'lightgallery';
 import lgThumbnail from 'lightgallery/plugins/thumbnail'
 import lgZoom from 'lightgallery/plugins/zoom'
 
+import en from '../locales/en.json'
+import nl from '../locales/nl.json'
+
 
 lightGallery(document.getElementById('gallery-animated-captions-demo'), {
   speed: 500,
@@ -15,3 +18,5 @@ lightGallery(document.getElementById('gallery-animated-captions-demo'), {
   // You can find caption animation demo on the captions demo page
   slideDelay: 400,
 });
+
+window.languages = { en: en, nl: nl }
