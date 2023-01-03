@@ -1,26 +1,26 @@
 {
   "title": "De setup van",
-  "description": "Mijn naam is Jasper Stolwijk, ik ben een web developer en een gamer. Ik speel veel verschillende games, van Horror tot Overwatch en van Warzone tot Back 4 Blood.",
+  "description": "Mijn naam is Jasper Stolwijk en ik ben een web developer met een passie voor gaming. Ik heb ervaring met een breed scala aan games, variërend van horrorgames tot first-person shooters en van battle royale games tot survival horror. Ik hou ervan om mijn skills te testen in verschillende gamegenres en ben altijd op zoek naar nieuwe uitdagingen.",
   "buttons": {
     "button1": "Bekijk de Media",
     "button2": "Meer informatie"
   },
   "information": {
     "title": "Informatie",
-    "description": "Ik heb deze computer al 5 á 6 jaar en in deze tijd heb ik hem vaak aangepast. Net voor het videokaarten tekort heb ik nog een aantal upgrades kunnen uitvoeren waar ik gelukkig niet de hoofdprijs voor hoefde te betalen."
+    "description": "Ik ben al enkele jaren bezig met het optimaliseren van mijn computer en heb onlangs nog enkele upgrades uitgevoerd voordat de videokaarten tekorten begonnen. Gelukkig heb ik hiervoor niet te veel hoeven betalen."
   },
   "sections": {
     "section1": { 
       "title": "Gaming Computer",
-      "description": "Als ik werk, maak ik gebruik van mijn Macbook Pro 16'. Voor het aansluiten van de laptop op de rest van mijn setup gebruik ik de volgende accessoires:"
+      "description": "Ik maak gebruik van mijn Macbook Pro 16' wanneer ik aan het werk ben. Om deze te koppelen aan de rest van mijn computer setup, maak ik gebruik van verschillende accessoires, zoals:"
     },
     "section2": { 
       "title": "Peripherals",
-      "description": "Naast de laptop en de computer heb ik ook het volgende in huis:"
+      "description": "Naast mijn laptop en desktop computer, heb ik ook de volgende apparaten in huis:"
     },
     "section3": { 
       "title": "Peripherals",
-      "description": "Naast de laptop en de computer heb ik ook het volgende in huis:",
+      "description": "Naast mijn laptop en desktop computer, heb ik ook de volgende apparaten in huis:",
       "desk": "Bureau: Custom, blad is 200 cm x 100 cm en het is een verstelbare bureau"
     }
   },
