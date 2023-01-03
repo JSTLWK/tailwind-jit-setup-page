@@ -2,11 +2,11 @@
   "title": "The setup from",
   "description": "My name is Jasper Stolwijk and I am a web developer with a passion for gaming. I have experience with a wide range of games, ranging from horror games to first-person shooters and from battle royale games to survival horror. I enjoy testing my skills in different game genres and am always looking for new challenges.",
   "buttons": {
-    "button1": "Bekijk de Media",
-    "button2": "Meer informatie"
+    "button1": "Watch the media",
+    "button2": "More information"
   },
   "information": {
-    "title": "Informatie",
+    "title": "Information",
     "description": "I have been working on optimizing my computer for several years and recently completed some upgrades before the shortage of video cards began. Fortunately, I did not have to pay too much for these."
   },
   "sections": {
@@ -25,7 +25,7 @@
     }
   },
   "media": {
-    "title": "Foto's",
+    "title": "Pictures",
     "description": "All of the photos of my setup from every angle."
   }
 }
