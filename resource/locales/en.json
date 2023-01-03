@@ -1,31 +1,31 @@
 {
   "title": "The setup from",
-  "description": "Mijn naam is Jasper Stolwijk, ik ben een web developer en een gamer. Ik speel veel verschillende games, van Horror tot Overwatch en van Warzone tot Back 4 Blood.",
+  "description": "My name is Jasper Stolwijk and I am a web developer with a passion for gaming. I have experience with a wide range of games, ranging from horror games to first-person shooters and from battle royale games to survival horror. I enjoy testing my skills in different game genres and am always looking for new challenges.",
   "buttons": {
     "button1": "Bekijk de Media",
     "button2": "Meer informatie"
   },
   "information": {
     "title": "Informatie",
-    "description": "Ik heb deze computer al 5 á 6 jaar en in deze tijd heb ik hem vaak aangepast. Net voor het videokaarten tekort heb ik nog een aantal upgrades kunnen uitvoeren waar ik gelukkig niet de hoofdprijs voor hoefde te betalen."
+    "description": "I have been working on optimizing my computer for several years and recently completed some upgrades before the shortage of video cards began. Fortunately, I did not have to pay too much for these."
   },
   "sections": {
     "section1": { 
       "title": "Gaming Computer",
-      "description": "Als ik werk, maak ik gebruik van mijn Macbook Pro 16'. Voor het aansluiten van de laptop op de rest van mijn setup gebruik ik de volgende accessoires:"
+      "description": "I use my Macbook Pro 16' when I am working. To connect this to the rest of my computer setup, I use various accessories, such as:"
     },
     "section2": { 
       "title": "Peripherals",
-      "description": "Naast de laptop en de computer heb ik ook het volgende in huis:"
+      "description": "In addition to my laptop and desktop computer, I also have the following devices in my home:"
     },
     "section3": { 
       "title": "Peripherals",
-      "description": "Naast de laptop en de computer heb ik ook het volgende in huis:",
-      "desk": "Bureau: Custom, blad is 200 cm x 100 cm en het is een verstelbare bureau"
+      "description": "In addition to my laptop and desktop computer, I also have the following devices in my home:",
+      "desk": "Desk: Custom, top measures 200 cm x 100 cm and it is an adjustable desk."
     }
   },
   "media": {
     "title": "Foto's",
-    "description": "Alle foto's van mijn setup van alle hoeken."
+    "description": "All of the photos of my setup from every angle."
   }
 }
